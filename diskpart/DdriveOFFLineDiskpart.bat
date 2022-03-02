@@ -1,0 +1,1 @@
+diskpart /s C:\Users\dsm3000\Desktop\test\DdriveOFFLine.txt
