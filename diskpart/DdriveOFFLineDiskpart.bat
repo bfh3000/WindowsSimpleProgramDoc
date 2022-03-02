@@ -1,1 +1,1 @@
-diskpart /s C:\Users\dsm3000\Desktop\test\DdriveOFFLine.txt
+diskpart /s C:\Users\dsm3000\Desktop\diskpart\DdriveOFFLine.txt
