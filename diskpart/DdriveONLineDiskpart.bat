@@ -1,1 +1,0 @@
-diskpart /s E:\004-program\WindowsSimpleProgramDoc\diskpart\DdriveOnLine.txt
